@@ -4,7 +4,7 @@ Soy desarrollador full stack y cofundador de Harpa SpA. Estos proyectos reúnen 
 
 ## Punto de venta de Harpa
 
-Desarrollé la mayor parte del punto de venta sobre una base que incluía aportes de compañeros. Implementé la impresión térmica de boletas, la vista previa y las pruebas de impresión. El sistema utiliza Angular, Express, TypeScript y MySQL.
+Desarrollé la mayor parte del punto de venta sobre una base que incluía aportes de compañeros. Implementé la impresión térmica de boletas, la vista previa y las pruebas de impresión. También me encargué de la certificación del POS como emisor de documentos tributarios electrónicos (DTE). El sistema utiliza Angular, Express, TypeScript y MySQL.
 
 [Ver punto de venta](https://pos.avicolalasmariposas.cl/)
 
@@ -30,4 +30,4 @@ Desarrollé durante mi práctica intermedia un sistema para seguir objetivos, in
 
 En colaboración con Coanil en Chillán, desarrollamos un juego web para que niñas y niños con movilidad reducida pudieran jugar con la mirada y el parpadeo.
 
-Integré MediaPipe Face Landmarker y una red neuronal convolucional con TensorFlow Lite para estimar la mirada. Implementé el modo móvil, que procesa la imagen de la cámara en el navegador, y ajusté la detección de parpadeos para controlar el juego.
+Usamos modelos de IA para interpretar la mirada y el parpadeo. Implementé el modo móvil para que el juego funcionara con la cámara del teléfono.
