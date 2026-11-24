@@ -25,3 +25,9 @@ Desarrollé y desplegué el sitio web y su sistema de gestión de publicaciones 
 Desarrollé durante mi práctica intermedia un sistema para seguir objetivos, indicadores y metas institucionales. Utilicé Angular, Express y MySQL y participé desde el levantamiento de requerimientos hasta el despliegue.
 
 [Ver Cuadro de Mando Integral](https://cmi-dirplac.unach.cl/)
+
+## Aprendizaje profundo aplicado a accesibilidad
+
+En colaboración con Coanil en Chillán, desarrollamos un juego web para que niñas y niños con movilidad reducida pudieran jugar con la mirada y el parpadeo.
+
+Integré MediaPipe Face Landmarker y una red neuronal convolucional con TensorFlow Lite para estimar la mirada. Implementé el modo móvil, que procesa la imagen de la cámara en el navegador, y ajusté la detección de parpadeos para controlar el juego.
